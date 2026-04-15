@@ -1,0 +1,6 @@
+/* make image caption stand out less */
+figcaption {
+  text-align: center;
+  font-weight: 500 !important;
+  color: var(--secondary) !important;
+}
